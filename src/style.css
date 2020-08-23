@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    height: 100px;
+    background-color: rgb(46, 132, 172);
+    color: rgba(2, 20, 5, 0.527);
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 300pnx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
