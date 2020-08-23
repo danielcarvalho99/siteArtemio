@@ -3,7 +3,7 @@ import React from 'react';
 function Footer(){
     return(
         <footer style = {{color:"blue"}}>
-            <h3>This is my footer</h3>
+            <h3>Tomboy fedida</h3>
         </footer>
     )
 };
